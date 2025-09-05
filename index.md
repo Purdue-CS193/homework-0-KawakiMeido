@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Huy Pham's First CS193 Homework
+
+List of things I like about CS193:
+- 1 Credit <3
+- Lots of useful info
+- SSHing (yay)
+
+Have a great day!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
